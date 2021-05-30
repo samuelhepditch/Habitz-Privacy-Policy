@@ -6,7 +6,7 @@ The developer of this application asks you to read this document carefully.
 
 1. Who built this app:
 
-Samuel Hepditch, an independant developer, developed habits.
+* Samuel Hepditch, an independant developer, developed habits.
 
 2. The personal information we collect and use:
 
@@ -16,8 +16,8 @@ Samuel Hepditch, an independant developer, developed habits.
 
 3. Data Requests:
 
-If you wish to know which data is being collected about you please contact the developer via the email provided at documents end.
-Please note for any request, verification of identity will be required.
+* If you wish to know which data is being collected about you please contact the developer via the email provided at documents end.
+* Please note for any request, verification of identity will be required.
 
 4. Contact Information
 

@@ -21,4 +21,4 @@ The developer of this application asks you to read this document carefully.
 
 4. Contact Information
 
-If you wish to contact the developer please email hepditchsam@gmail.com
+* If you wish to contact the developer please email hepditchsam@gmail.com
